@@ -3,7 +3,7 @@
 📍 London, England, United Kingdom
 
 ### 👋 Hi there!
-I'm Dmitry Ginzburg, an expert in Post Production and Lighting Supervision, Lead Lighting TD, and a dedicated software developer with a focus on animation. My career is marked by a commitment to enhancing post-production through technical direction, innovative problem solving, and the development of cutting-edge software solutions. My expertise spans across rendering, lighting, compositing, and shader writing, aiming to push the boundaries of visual storytelling in animation. Let's explore how we can bring exceptional quality and creativity to your animation projects!
+I'm Dmitry Ginzburg, an expert in Post Production and Lighting Supervision, Lead Lighting TD, and a dedicated software developer with a focus on animation and image processing. My career is marked by a commitment to enhancing post-production through technical direction, innovative problem solving, and the development of cutting-edge software solutions. My expertise spans across rendering, lighting, compositing, and shader writing, aiming to push the boundaries of visual storytelling in animation. Let's explore how we can bring exceptional quality and creativity to your animation projects!
 
 ### 🛠 Skills
 - **Post-Production Supervising**
