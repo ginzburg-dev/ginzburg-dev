@@ -45,7 +45,8 @@ Developed a proprietary algorithm for noise reduction in rendering, improving im
 - In my earlier career, I gained experience in writing a 3D game engine. This project honed my skills in software architecture, real-time graphics rendering, and deepened my understanding of game development processes.
 
 ### 🏆 Achievements
-- Developed and implemented CGI noise reduction technology - software that removed monte-carlo noise and saved details in rendering, slashing rendering costs by up to 30%.
+- Developed and implemented CGI noise reduction technology **Ginzburg Denoiser** - software that removed Monte-Carlo noise accros frames while saving details in rendering, slashing rendering costs by up to 30%.
+- Developed and implemented the **JAM Asset Manager** plugin for Maya, enhancing asset and lighting scene management in the post-production pipeline. This scalable tool offers extensive functionality tailored to specific projects, significantly boosting productivity and workflow efficiency.
 - Set up lighting for over 10,000 shots, improving visual storytelling across multiple projects.
 - Created tools and scripts to optimize production pipelines, increasing efficiency and enhancing output quality.
 
