@@ -28,12 +28,12 @@ Managed the technical quality of animated series, overseeing asset production, l
 **Riki Group**  
 *Lighting Technical Director*  
 2016 - Present  
-Led the look development and lighting for over 250 episodes across more than 8 projects, including notable series such as "Fixies". Mentored a team of lighting artists, significantly enhancing production quality and efficiency. Implemented my proprietary "Ginzburg Denoiser" software, reducing rendering costs by 30%.
+Led the look development and lighting for over 250 episodes across more than 8 projects, including the notable animated project "The Fixies". Mentored a team of lighting artists, significantly enhancing production efficiency. Implemented "Ginzburg Denoiser software" in rendering pipeline, reducing rendering costs by 30%.
 
 **Ginzburg Denoiser Software**  
 *Product Owner*  
 Apr 2017 - Present  
-Developed a proprietary algorithm for noise reduction in rendering, improving image processing for IoT devices and animation, notably integrated into the "Fixies" series production.
+Developed a proprietary algorithm for noise reduction in rendering, improving image processing for animation, notably integrated into the "Fixies" series production.
 
 ### 🏆 Notable Projects
 - **The Fixies** animated series: Contributed to lighting and technical quality, ensuring the series' visual excellence.
