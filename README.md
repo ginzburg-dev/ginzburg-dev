@@ -15,6 +15,7 @@ I'm Dmitry Ginzburg, an expert in Post Production and Lighting Supervision, Lead
 
 ### 📚 Languages & Technologies
 - **Languages:** C++, Python, MEL, OSL
+- **UI development tools:** Qt, PySide
 - **Software:** Maya, Katana, Houdini, Nuke, Mari, 3Ds Max, After Effects
 - **Rendering Engines:** Pixar RenderMan, Arnold, Redshift, V-Ray, Mental ray
 - **Real-Time Technologies:** Unreal Engine 5.2
