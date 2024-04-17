@@ -12,7 +12,7 @@ I'm Dmitri Ginzburg, Lead Lighting TD, Post Production Superviser and a dedicate
 - **Rendering Engines:** Pixar RenderMan, Arnold, Redshift, V-Ray, Mental ray
 - **Real-Time Technologies:** Unreal Engine 5.2
 
-### 📫 Let's Connect
+### 📫 Contacts
 - Email: ginzburgdd@gmail.com
 - [LinkedIn](www.linkedin.com/in/ginzburg-cg)
 - [YouTube](https://www.youtube.com/@ginzburg.productions)
